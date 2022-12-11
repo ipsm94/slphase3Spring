@@ -1,2 +1,2 @@
-# slphase3Spring
+# slphase3DevOps
 Sporty Shoes Project with Spring Hibernate
