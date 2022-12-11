@@ -1,0 +1,5 @@
+package org.rhs.SpringSportyShoesCart.controller;
+
+public class MainController {
+
+}

@@ -1,0 +1,5 @@
+package org.rhs.SpringSportyShoesCart.config;
+
+public class ApplicationContextConfig {
+
+}

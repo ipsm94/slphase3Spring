@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\SL_Classes\SL-Proj\SportyShoes\sportyshoes-ws\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3693671838.index
+\SpringSportyShoesCart\src\main\java
+C:\SL_Classes\SL-Proj\SportyShoes\sportyshoes-ws\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3922423216.index
+\SpringSportyShoesCart\src\main\java

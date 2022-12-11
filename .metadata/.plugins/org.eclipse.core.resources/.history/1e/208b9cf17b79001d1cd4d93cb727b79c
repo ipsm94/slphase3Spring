@@ -1,0 +1,5 @@
+package org.rhs.SpringSportyShoesCart.authentication;
+
+public class MyDBAAuthenticationService {
+
+}
